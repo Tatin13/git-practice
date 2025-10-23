@@ -1,1 +1,2 @@
 "This is my first note." 
+"Git helps track changes easily." 
